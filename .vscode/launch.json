@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/Code/skillbox/24/24",
-      "program": "f:/Code/skillbox/24/24/build/Debug/outDebug",
+      "cwd": "f:/Code/skillbox/24",
+      "program": "f:/Code/skillbox/24/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
